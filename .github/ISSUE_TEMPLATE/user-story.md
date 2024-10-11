@@ -15,5 +15,6 @@ assignees: ''
  ```gherkin
  Given [some context]
  When [certain action is taken]
+~~And [ any additional requirements]~~
  Then [the outcome of action is observed]
  ```
